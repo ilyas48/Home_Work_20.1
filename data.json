@@ -1,0 +1,39 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "name": "┴√Єютр  Єхїэшър",
+      "description": "┬ёх фы  фюьр"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "name": "┬ё╕ фы  ёрфр",
+      "description": "╥ютрЁ√ фы  ёрфр ш юуюЁюфр"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+      "name": "╤ьрЁЄЇюэ√",
+      "description": "╤ьрЁЄЇюэ√ ш яырэ°хЄ√"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "name": "╥хыхтшчюЁ",
+      "description": "ЄхыхтшчюЁ 'SAMSUNG'",
+      "price": 38000,
+      "photo": "",
+      "birth_day": "2023-07-24",
+      "last_change": "2023-07-24",
+      "category": "┴√Єютр  Єхїэшър"
+    }
+  }
+]
